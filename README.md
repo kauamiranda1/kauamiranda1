@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Kauã Miranda
+🚀 **ADS | JavaScript & C#**  
+🇧🇷 Brazil
 
-<!--
-**kauamiranda1/kauamiranda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Where to find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/kauamiranda1">
+    <img src="https://img.shields.io/badge/GitHub-kauamiranda1-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/iamkauziin">
+    <img src="https://img.shields.io/badge/Instagram-@iamkauziin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/pedabli0">
+    <img src="https://img.shields.io/badge/TikTok-@pedabli0-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+
+### Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Phyton](hhttps://1ng.sh1elds.10/badge/Python-3776A8?style=for-the-badged logo=python LogoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Code is not just about solving problems.  
+> It's about building solutions that scale, last, and generate real value."_
+
