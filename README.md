@@ -31,7 +31,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Phyton](hhttps://1ng.sh1elds.10/badge/Python-3776A8?style=for-the-badged logo=python LogoColor=white)
+![Phyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
