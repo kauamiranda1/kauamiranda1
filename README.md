@@ -13,9 +13,6 @@
   <a href="https://instagram.com/iamkauziin">
     <img src="https://img.shields.io/badge/Instagram-@iamkauziin-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/pedabli0">
-    <img src="https://img.shields.io/badge/TikTok-@pedabli0-000000?style=for-the-badge&logo=tiktok" />
-  </a>
 </p>
 
 ---
